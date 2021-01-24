@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.project-info {
+    height: 15%;
+    width: 100%;
+    background-color: #cecece2d;
+}
+
+.project-details {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.project-date {
+    font-size: 1.3rem;
+}

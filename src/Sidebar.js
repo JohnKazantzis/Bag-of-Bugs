@@ -1,5 +1,4 @@
-
-import React, { Component } from 'react';
+import React from 'react';
 import './Css/Sidebar.css';
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
